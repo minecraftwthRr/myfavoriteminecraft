@@ -1,0 +1,35 @@
+.link:hover {
+	background-color: dodgerblue;
+}
+
+.menu {
+	background-color: darkblue cursor:pointer 
+}
+.link:hover {
+	background-color: dodgerblue;
+}
+
+.menu {
+	background-color: darkblue cursor:pointer; 
+}
+html{
+	scroll-behavior:smooth;
+}
+body{ background: linear-gradient(#60ebeb 0%, #27ae60 100%);}
+#vid1+2{
+ width:30%;
+   float:left;
+}
+#vid3+4{
+ width:30%;
+   float:left;
+}
+#vid3+4{ margin: 25%;
+}
+#vid1+2{ margin: 25%;}
+.vids{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+}
